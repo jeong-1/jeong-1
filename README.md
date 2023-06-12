@@ -1,5 +1,5 @@
 ### jeong-1 
- Hi I'm JeongEun👋
+ Hi I'm JeongEun👋 <br />
  Growing Android Developer🌱
 
 ### I'm studying 📖
