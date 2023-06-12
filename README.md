@@ -15,7 +15,7 @@
 
 ### Algorithm ✏️
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjddms680)](https://solved.ac/wjddms680)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjddms680)](https://solved.ac/profile/wjddms680)
 
 
 
