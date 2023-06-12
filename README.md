@@ -13,6 +13,10 @@
  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/></a>
 <a href="mailto:ljekj5562@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ljekj5562@gmail.com"/></a>
 
+### Algorithm ✏️
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjddms680)](https://solved.ac/wjddms680)
+
 
 
 <!--
