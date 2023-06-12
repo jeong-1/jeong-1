@@ -15,11 +15,11 @@
 
 ### Algorithm ✏️
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjddms680)](https://solved.ac/profile/wjddms680)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjddms680)](https://solved.ac/wjddms680)
 
 ### Most Used Languages 🥇
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong-1&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong-1&layout=compact&theme=dark)  
 
 
 
