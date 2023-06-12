@@ -5,7 +5,7 @@
 ### I'm studying 📖
 <div style="display:inline">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <br />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/> <br />
 </div>
 
 
