@@ -1,4 +1,15 @@
-### Hi there 👋
+### jeong-1 
+ Hi I'm JeongEun👋
+ Growing Android Developer🌱
+
+### I'm studying 📖
+<div style="display:inline">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Android-7F52FF?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <br />
+</div>
+
+
+
 
 <!--
 **jeong-1/jeong-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
