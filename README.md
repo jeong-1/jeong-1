@@ -1,4 +1,4 @@
-### jeong-1 
+## jeong-1 
  Hi I'm JeongEun👋 <br />
  Growing Android Developer🌱
 
