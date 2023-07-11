@@ -5,8 +5,10 @@
 </br>
 
 ## 1. 대회 정보
-Google 기술을 사용하여 UN의 17가지 지속 가능한 개발 목표를 하나 이상을 해결하는 구글 주최 해커톤
-[링크](https://developers.google.com/community/gdsc-solution-challenge?hl=ko)
+Google 기술을 사용하여 UN의 17가지 지속 가능한 개발 목표를 하나 이상을 해결하는 구글 주최 해커톤  
+[[링크]](https://developers.google.com/community/gdsc-solution-challenge?hl=ko)
+
+</br>
 
 ## 2. 제작 기간 & 참여 인원
 - 2023년 1월 23일 ~ 2023년 4월 1일
@@ -42,7 +44,7 @@ Google 기술을 사용하여 UN의 17가지 지속 가능한 개발 목표를 �
 </br>
 
 ## 5. 담당 영역
-  - Android App Client
+  Android App Client
 
 </br>
 
