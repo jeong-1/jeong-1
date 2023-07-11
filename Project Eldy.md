@@ -7,7 +7,7 @@
 ## 1. 대회 정보
 한국, 일본 지부가 주관하는 2023 동아시아 GDSC 글로벌 해커톤입니다.  
 해커톤의 목표는 UN의 17개 SDGs 중 하나 이상을 해결하는 것입니다.  
-[[대회 정보 링크]]([https://developers.google.com/community/gdsc-solution-challenge?hl=ko](https://gdsc.community.dev/events/details/developer-student-clubs-seoul-womens-university-presents-the-bridge-ideation-workshop/))
+[[대회 정보 링크]](https://gdsc.community.dev/events/details/developer-student-clubs-seoul-womens-university-presents-the-bridge-ideation-workshop/)
 
 </br>
 
