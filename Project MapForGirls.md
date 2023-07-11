@@ -1,13 +1,13 @@
-# :pushpin: Medisight
+# :pushpin: MapForGirls
 >10대 여성 청소년들을 위한 종합 의료 보조 서비스  
 >https://github.com/GDSC-SWU/2023-Medisight-SolutionChallenge  
 
 </br>
 
 ## 1. 대회 정보
-Google 기술을 사용하여 UN의 17가지 지속 가능한 개발 목표를 하나 이상을 해결하는   
+여성들의 시각에서 바라본 문제들을 해결할 수 있는 서비스를 개발하는 해커톤  
 서울여자대학교 소프트웨어중심대학 사업단 주최  
-<p><img width="200" src=""/></p>
+<p align="center"><img width="200" src="https://github.com/jeong-1/jeong-1/assets/68230434/3c8d2520-2d6e-49a2-a596-9d241423ad6d"/></p>
 
 </br>
 
@@ -19,30 +19,19 @@ Google 기술을 사용하여 UN의 17가지 지속 가능한 개발 목표를 �
 
 ## 3. 사용 기술
 #### `Client`
-  - Flutter
+  - Kotlin
   - Firebase
-  - Mlkit
-  - Google-maps-api  
   - Gradle
-#### `Back-end`
-  - Nodejs
-  - RestAPI
-  - Gcp
-  - Prisma
-  - FastAPI  
-#### ML
-  - Cloud-vision-api
-  - Yolov8
+  - RoomDB
 
 </br>
 
 ## 4. 핵심 기능
-이 서비스의 핵심 기능은 카메라 스캔을 통한 의약품 인식 기능과 유효기간 인식 기능입니다.  
-사용자가 바코드를 통해서 의약품을 스캔하면, 의약품 정보가 보여집니다.  
-만약 스캔한 사진의 형체를 알아볼 수 없는 등의 기타 오류가 있다면 ML 모델을 통해 재촬영이 필요하다고 안내합니다.  
-위 과정은 사진이 서버로 넘어가고 서버에 배포된 ML 모델을 통한 결과를 다시 서버로부터 받아오는 과정을 통해 구현됩니다.  
-<p><img width="200" src="https://github.com/jeong-1/jeong-1/assets/68230434/87d941fb-3fe3-4349-9348-301b0d56912a"/></p>
-<p><img width="200" src="https://github.com/jeong-1/jeong-1/assets/68230434/2e2e7c04-efd3-4178-ac38-efb1d64cacc8"/></p>
+이 서비스의 핵심 기능은 '소녀 돌봄 약국'의 위치를 쉽게 찾아볼 수 있는 지도 기능입니다.  
+'소녀 돌봄 약국'이란 서울시에서 10대 여성 청소년을 위해 건강 상담과 의약품 지원, 지원 시설 연계 서비스 등을 제공하는 사업입니다.  
+GPS 기반으로 주변 소녀 돌봄 약국을 지도에 띄워주고, 해당 약국의 정보를 제공합니다.  
+<p><img width="200" src=""/></p>
+<p><img width="200" src=""/></p>
 
 </br>
 
