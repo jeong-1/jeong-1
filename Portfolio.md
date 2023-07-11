@@ -30,7 +30,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. Medisight
+### 1. [Medisight](https://github.com/GDSC-SWU/2023-Medisight-SolutionChallenge) (Repo 바로가기)
 >시각장애인을 위한 종합 의료 도우미 서비스 (팀 프로젝트)  
 >개발 기간: 2023.1.23 ~ 2023.4.1
 >  
@@ -38,24 +38,22 @@
 >Flutter / Firebase / Google-maps-api / Nodejs / Rest-api / Mlkit  
 >Gradle / Gcp / Cloud-vision-api / Prisma / FastAPI / Yolov8  
 >
->[프로젝트 Repository](https://github.com/GDSC-SWU/2023-Medisight-SolutionChallenge)  
 >[프로젝트 상세 설명]()
 
 ---
 
-### 2. MapForGirls
+### 2. [MapForGirls](https://github.com/Hyobeen-Park/MapForGirls)
 >10대 여성 청소년들을 위한 종합 의료 보조 서비스 (팀 프로젝트)  
 >개발 기간: 2022.7.8 ~ 2023.8.18
 >  
 >기술 스택:  
 >Kotlin / Firebase / Gradle / RoomDB  
 >
->[프로젝트 Repository](https://github.com/Hyobeen-Park/MapForGirls)  
 >[프로젝트 상세 설명]()
 
 ---
 
-### 3. Eldy
+### 3. [Eldy](https://github.com/GDSC-Bridge2023-Exceptorii/expectorii-flutter)
 >고령자 역량 강화: 노인 디지털 리터러시 개선 서비스 (팀 프로젝트)  
 >개발 기간: 2023.2.11 ~ 2023.2.12
 >  
@@ -63,5 +61,4 @@
 >Flutter / Gradle / FastAPI / Colab / Jupyter Notebook / TensorFlow Lite  
 >TypeScript / JavaScript / HTML / CSS  
 >  
->[프로젝트 Repository](https://github.com/GDSC-Bridge2023-Exceptorii/expectorii-flutter)  
 >[프로젝트 상세 설명]()
