@@ -1,4 +1,4 @@
-# :pushpin: Medisight
+# :pushpin: Eldy
 >고령자 역량 강화: 노인 디지털 리터러시 개선 서비스  
 >https://github.com/GDSC-Bridge2023-Exceptorii/expectorii-flutter
 
