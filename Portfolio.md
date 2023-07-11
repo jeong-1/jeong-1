@@ -38,7 +38,7 @@
 >Flutter / Firebase / Mlkit / Google-maps-api / Gradle  
 >Nodejs / RestAPI / Prisma / FastAPI / Gcp / Cloud-vision-api / Yolov8  
 >
->[프로젝트 상세 설명]()
+>[프로젝트 상세 설명](https://github.com/jeong-1/jeong-1/blob/main/Project%20Medisight.md)
 
 ---
 
