@@ -1,6 +1,6 @@
 # :pushpin: MapForGirls
 >10대 여성 청소년들을 위한 종합 의료 보조 서비스  
->https://github.com/GDSC-SWU/2023-Medisight-SolutionChallenge  
+>https://github.com/Hyobeen-Park/MapForGirls
 
 </br>
 
