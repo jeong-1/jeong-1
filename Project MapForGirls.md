@@ -30,23 +30,22 @@
 이 서비스의 핵심 기능은 '소녀 돌봄 약국'의 위치를 쉽게 찾아볼 수 있는 지도 기능입니다.  
 '소녀 돌봄 약국'이란 서울시에서 10대 여성 청소년을 위해 건강 상담과 의약품 지원, 지원 시설 연계 서비스 등을 제공하는 사업입니다.  
 GPS 기반으로 주변 소녀 돌봄 약국을 지도에 띄워주고, 해당 약국의 정보를 제공합니다.  
-<p><img width="200" src=""/></p>
-<p><img width="200" src=""/></p>
+<p><img width="200" src="https://github.com/jeong-1/jeong-1/assets/68230434/5028548c-7a97-4519-907f-95ac25ff3a90"/>
+<img width="200" src="https://github.com/jeong-1/jeong-1/assets/68230434/4ca70748-9cc1-4bb2-8846-508cb7e5915a"/></p>
 
 </br>
 
 ## 5. 담당 영역
-  Android App Client
+  `Android App Client`
 
 </br>
 
 ## 6. 기여
-- 프론트엔드 환경 구축
+- 안드로이드 환경 구축 
+- 로그인/회원가입 페이지 개발
+  - view와 layout 배치
+  - Firebase Auth를 사용하여 구현
+  - Firebase Realtime DB에서 데이터를 읽고 쓰는 기능 구현 
 - 마이페이지 개발
-    - 위젯 생성 및 화면 전환 기능 구현
-- 사용자 질환 설정 페이지 개발
-    - firebase에서 데이터를 읽고 쓰는 기능 구현
-- 카메라 페이지 개발
-    - async / await를 활용하여 일정주기마다 스냅샷 촬영 기능 구현
-    - ML kit을 사용하여 바코드를 스캔하는 기능 구현
-    - rest api를 호출하여 GCP 서버와 통신 구현
+    - read/write를 통해 Firebase Storage의 이미지 데이터에 접근하는 기능 구현
+    - image uri를 사용하여 사용자 프로필 변경 가능 구현
