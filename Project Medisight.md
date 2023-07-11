@@ -29,7 +29,7 @@ Google 기술을 사용하여 UN의 17가지 지속 가능한 개발 목표를 �
   - Gcp
   - Prisma
   - FastAPI  
-#### ML
+#### `ML`
   - Cloud-vision-api
   - Yolov8
 
@@ -46,7 +46,7 @@ Google 기술을 사용하여 UN의 17가지 지속 가능한 개발 목표를 �
 </br>
 
 ## 5. 담당 영역
-  Android App Client
+  `Android App Client`
 
 </br>
 
