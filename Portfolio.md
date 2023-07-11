@@ -49,7 +49,7 @@
 >기술 스택:  
 >Kotlin / Firebase / Gradle / RoomDB  
 >
->[프로젝트 상세 설명]()
+>[프로젝트 상세 설명](https://github.com/jeong-1/jeong-1/blob/main/Project%20MapForGirls.md)
 
 ---
 
