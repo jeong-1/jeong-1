@@ -44,7 +44,7 @@
 
 ### 2. [MapForGirls](https://github.com/Hyobeen-Park/MapForGirls)
 >10대 여성 청소년들을 위한 종합 의료 보조 서비스 (팀 프로젝트)  
->개발 기간: 2022.7.8 ~ 2023.8.18
+>개발 기간: 2022.7.8 ~ 2022.8.18
 >  
 >기술 스택:  
 >Kotlin / Firebase / Gradle / RoomDB  
