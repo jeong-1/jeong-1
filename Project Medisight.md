@@ -5,7 +5,7 @@
 </br>
 
 ## 1. 대회 정보
-Google 기술을 사용하여 UN의 17가지 지속 가능한 개발 목표를 하나 이상을 해결하는 구글 주최 해커톤  
+Google 기술을 사용하여 UN의 17가지 지속 가능한 개발 목표(SDGs)를 하나 이상을 해결하는 구글 주최 해커톤  
 [[대회 정보 링크]](https://developers.google.com/community/gdsc-solution-challenge?hl=ko)
 
 </br>
