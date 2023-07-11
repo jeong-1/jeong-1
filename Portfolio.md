@@ -61,4 +61,4 @@
 >Flutter / Gradle / FastAPI / RestAPI / Ngrok / Colab / TensorFlow Lite / NLP  
 >TypeScript / JavaScript / HTML / CSS  
 >  
->[프로젝트 상세 설명]()
+>[프로젝트 상세 설명](https://github.com/jeong-1/jeong-1/blob/main/Project%20Eldy.md)
