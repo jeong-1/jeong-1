@@ -58,7 +58,7 @@
 >개발 기간: 2023.2.11 ~ 2023.2.12
 >  
 >기술 스택:  
->Flutter / Gradle / FastAPI / RestAPI / Fly.io / Colab / TensorFlow Lite / NLP  
+>Flutter / Gradle / FastAPI / RestAPI / Ngrok / Colab / TensorFlow Lite / NLP  
 >TypeScript / JavaScript / HTML / CSS  
 >  
 >[프로젝트 상세 설명]()
