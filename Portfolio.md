@@ -35,8 +35,8 @@
 >개발 기간: 2023.1.23 ~ 2023.4.1
 >  
 >기술 스택:  
->Flutter / Firebase / Google-maps-api / Nodejs / Rest-api / Mlkit  
->Gradle / Gcp / Cloud-vision-api / Prisma / FastAPI / Yolov8  
+>Flutter / Firebase / Mlkit / Google-maps-api / Gradle  
+>Nodejs / RestAPI / Prisma / FastAPI / Gcp / Cloud-vision-api / Yolov8  
 >
 >[프로젝트 상세 설명]()
 
