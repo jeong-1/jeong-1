@@ -24,7 +24,7 @@ Google 기술을 사용하여 UN의 17가지 지속 가능한 개발 목표(SDGs
   - Google-maps-api  
   - Gradle
 #### `Back-end`
-  - Nodejs
+  - NodeJS
   - RestAPI
   - Gcp
   - Prisma
